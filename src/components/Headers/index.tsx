@@ -1,5 +1,6 @@
 export default function Headers() {
   return (
+    <>
     <header>
       <ul>
         <li>Home</li>
@@ -9,5 +10,6 @@ export default function Headers() {
         <li>Greetings</li>
       </ul>
     </header>
+    </>
   )
 }

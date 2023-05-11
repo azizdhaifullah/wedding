@@ -4,7 +4,9 @@ export default function Home() {
   return (
     <>
       <Headers />
-      <h1>Wedding Invitation</h1>
+      <h1 className="text-3xl font-bold underline">
+        Hello world!
+      </h1>
     </>
   )
 }
